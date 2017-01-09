@@ -291,9 +291,10 @@
 		color: #000000;
 		/* si pongo de fuente italic O Times New Roman me cambia todo */
 
-		font-family: "oswald", sans-serif;
+		font-family: "lato", sans-serif;
 		font-size: 13pt;
 		font-weight: 100;
+
 /* ESPACIO entre caracteres del texto -Como empresario...- */
 		letter-spacing: -0.03em;
 		line-height: 0.55em;
@@ -347,17 +348,17 @@
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 
 /* COLOR DEL BORDE DE LOS BOTONES DE CREDITS AVISO LEGAL */
-		border-bottom: dotted 1px #b31217;
+		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
 
 /* COLOR DE LOS BOTONES DE CREDITS AVISO LEGAL*/
-		color: #b31217;
+		color: #000000;
 		text-decoration: none;
 	}
 		a:hover {
 			border-bottom-color: transparent;
 
 /* COLOR DE LOS BOTONES DE LAS REDES ESPECIFICASL*/
-			color: #b31217 !important;
+			color: #e7ae18 !important;
 			text-decoration: none;
 		}
 
